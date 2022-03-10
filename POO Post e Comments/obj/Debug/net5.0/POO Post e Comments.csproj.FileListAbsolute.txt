@@ -1,0 +1,16 @@
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.csproj.AssemblyReference.cache
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.AssemblyInfoInputs.cache
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.AssemblyInfo.cs
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\POO Post e Comments.exe
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\POO Post e Comments.deps.json
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\POO Post e Comments.runtimeconfig.json
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\POO Post e Comments.runtimeconfig.dev.json
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\POO Post e Comments.dll
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\ref\POO Post e Comments.dll
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\bin\Debug\net5.0\POO Post e Comments.pdb
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.dll
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\ref\POO Post e Comments.dll
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.pdb
+C:\Users\Mariano\Desktop\MeuProjetos\C#-Dandan POO e Projetos\9. Enumerações e composição\POO Post e Comments\POO Post e Comments\obj\Debug\net5.0\POO Post e Comments.genruntimeconfig.cache
